@@ -46,6 +46,8 @@ ls | grep ".c" | wc -l
 ### 5. **Exiting the Shell**
 Type exit to close the shell
 
+---
+
 ## **System Calls and Process Management**
 
 This shell makes use of several key system calls for process management and inter-process communication:
@@ -64,6 +66,7 @@ Pipes are used to connect the output of one command to the input of another. The
 
 These system calls provide the necessary mechanisms for creating processes, handling input/output redirection, and implementing pipeline functionality.
 
+---
 
 This is an educational project that combines the knowledge of processes, pipes, and input/output manipulation in Linux. 🎉
 
